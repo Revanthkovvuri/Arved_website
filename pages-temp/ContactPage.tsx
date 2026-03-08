@@ -13,13 +13,13 @@ const contactInfo = [
   {
     icon: Phone,
     label: 'Phone',
-    value: '+1 (555) 123-4567',
-    href: 'tel:+15551234567',
+    value: '+91 7416624141',
+    href: 'tel:+917416624141',
   },
   {
     icon: MapPin,
     label: 'Address',
-    value: '123 Innovation Drive, Tech City, TC 12345',
+    value: 'JNTUH College of Engineering, Hyderabad, Telangana, India',
     href: '#',
   },
 ];

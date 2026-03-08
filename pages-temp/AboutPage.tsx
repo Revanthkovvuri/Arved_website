@@ -42,7 +42,7 @@ const coreTeam = [
   },
   {
     name: 'Janardhan',
-    role: 'Software Professional',
+    role: 'Software Consultant',
     description: 'A Software Professional with strong technical expertise and practical industry experience.',
   },
 ];
@@ -50,12 +50,12 @@ const coreTeam = [
 const interns = [
   {
     name: 'G Dhruvann',
-    role: 'Developer',
+    role: 'SDE1',
     description: 'An innovation led developer who blends creativity with rigorous analytical insight to architect scalable, high performance systems that address complex real world challenges. Driven to build what truly matters.',
   },
   {
     name: 'Revanth K',
-    role: 'Developer',
+    role: 'SDE1',
     description: 'A creative, innovative, and disciplined developer with strong analytical and problem-solving skills. I focus on building efficient, well-structured solutions while continuously striving for technical growth and excellence.',
   },
 ];

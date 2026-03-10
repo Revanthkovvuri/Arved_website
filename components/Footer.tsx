@@ -40,7 +40,7 @@ export default function Footer() {
           {/* Brand Column */}
           <div className="lg:col-span-2">
             <Link href="/" className="flex items-center gap-3 mb-6 cursor-pointer">
-              <div className="w-10 h-10 flex items-center justify-center">
+              <div className="bg-white rounded-full p-1 inline-flex items-center justify-center">
                 <img
                     src="/assets/AravedAdnokLogo.png"
                     alt="Araved Adnok Logo"
